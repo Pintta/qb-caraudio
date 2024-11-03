@@ -6,8 +6,6 @@ client_script 'core/client.lua'
 server_script 'core/server.lua'
 files {
 	'core/html/index.html',
-	'core/html/script.js',
 	'core/html/*.svg',
 	'core/html/radio.png',
-	'core/html/main.css',
 }
